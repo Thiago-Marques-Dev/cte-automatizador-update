@@ -1,6 +1,6 @@
 {
-  "version": "1.0.3",
+  "version": "1.0.4",
   "url": "https://github.com/Thiago-Marques-Dev/cte-automatizador-update/releases/download/Version1/Automatizador.exe",
   "mandatory": false,
-  "notes": "Adicionado ícone na tela e alterada cor do painel."
+  "notes": "Adicionado ícones aos botões."
 }
