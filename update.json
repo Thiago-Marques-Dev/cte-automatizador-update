@@ -1,6 +1,6 @@
 {
-  "version": "1.0.4",
+  "version": "1.0.6",
   "url": "https://github.com/Thiago-Marques-Dev/cte-automatizador-update/releases/download/Version1/Automatizador.exe",
   "mandatory": false,
-  "notes": "Adicionado ícones aos botões."
+  "notes": "Adicionado nomes corretos as colunas da tabela."
 }
